@@ -1,0 +1,22 @@
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 30px;
+  background-color: #0070f3;
+  font-family: monospace;
+  font-size: 22px;
+  margin-top: 50px;
+}
+
+.wrapper {
+  margin-top: 200px;
+}
+
+.text {
+  margin: 0;
+  font-family: monospace;
+  font-size: 22px;
+  margin-top: 40px;
+  color: #777;
+}
